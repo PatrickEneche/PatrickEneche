@@ -19,7 +19,7 @@ I am an actionable research enthusiast; passionate about understanding broad env
 
 📄 You can also view my past and ongoing activities via [LinkedIn](https://www.linkedin.com/in/enelche-psu/) or [ResearchGate](https://researchgate.net/profile/Eneche-Udama)
 
-⚡ Fun fact: I'm a free thinker and love to connect...
+⚡ Fun fact: I'm a free thinker and love to connect.
 
 
 ## 🛠 Languages and Tools
