@@ -1,13 +1,13 @@
 # Hi! Nice to meet you...
-I am an actionable research enthusiast; passionate about understanding broad environmental phenomena and climate change-related subjects. Meeting and collaborating with individuals, stakeholders and teams from diverse multidisciplinary settings is my core forté. 
+I am an actionable research enthusiast; passionate about understanding broad environmental phenomena and climate change-related subjects. Meeting and collaborating with individuals, stakeholders and teams from diverse multidisciplinary settings are my core forté. 
 
 ## 👨🏻‍💻 About Me
 
-✅ Easygoing and loves to open-up new research fronts.
+✅ Easygoing and loves to open up new research fronts.
 
 🎯 Best moments remain when engaging with stakeholders, researchers and the public, including non-experts.
 
-🎓 Holds a B.Sc Geography and Urban Planning and an M.Sc. in Environmental Management.
+🎓 Holds a B.Sc. in Geography and Urban Planning and an M.Sc. in Environmental Management.
 
 💼 Have over 10 years experience in geospatial applications - GIS, GPS and Remote Sensing technologies.
 
@@ -19,7 +19,7 @@ I am an actionable research enthusiast; passionate about understanding broad env
 
 📄 You can also view my past and ongoing activities via [LinkedIn](https://www.linkedin.com/in/enelche-psu/) or [ResearchGate](https://researchgate.net/profile/Eneche-Udama)
 
-⚡ Fun fact: I'm a free thinker; love good classical and afrobeat music genres. Stage name - Babington!
+⚡ Fun fact: I'm a free thinker; I love good classical and afrobeat music genres. Stage name - Babington!
 
 
 ## 🛠 Languages and Tools
