@@ -1,6 +1,4 @@
-authors:  
-  - name: Eneche Patrick Samson Udama  
-    orcid: https://orcid.org/0000-0002-0504-9677 
+orcid: https://orcid.org/0000-0002-0504-9677 
 
 # Hi! Nice to meet you...
 I am an actionable research enthusiast; passionate about understanding broad environmental phenomena and climate change-related subjects. Meeting and collaborating with individuals, stakeholders and teams from diverse multidisciplinary settings are my core forté. 
